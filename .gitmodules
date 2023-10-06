@@ -1,0 +1,6 @@
+[submodule "shallowpink_v1"]
+	path = shallowpink_v1
+	url = https://github.com/Chessticulate/ShallowPink
+[submodule "shallowpink_v2"]
+	path = shallowpink_v2
+	url = https://github.com/Chessticulate/ShallowPink
